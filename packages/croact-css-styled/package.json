@@ -38,13 +38,13 @@
     "license": "MIT",
     "dependencies": {
         "@daybrush/utils": "^1.13.0",
+        "croact": "^1.0.3",
         "css-styled": "~1.0.8",
         "framework-utils": "^1.1.0"
     },
     "devDependencies": {
         "@daybrush/builder": "^0.1.2",
         "@types/react": "^16.0.0",
-        "croact": "^1.0.3",
         "print-sizes": "^0.2.0",
         "react-css-styled": "~1.1.9",
         "rollup": "^1.29.0",
